@@ -1,0 +1,5 @@
+bin/*
+build/*
+make-build-debug/
+CMakeLists.txt.user
+build-*/
